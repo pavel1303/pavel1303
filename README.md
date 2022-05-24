@@ -137,6 +137,13 @@ The last task is number 06, the most difficult and interesting, with the help of
 </tbody>
 </table>
   </div>
+  <div id='stats' align='center'>
+    <h2 align='left'>And some statistics...</h2>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=pavel1303&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel1303&layout=compact&theme=vision-friendly-dark"><br><br>
+    <img src="https://www.codewars.com/users/pavel1303/badges/large">
+  </div>
+  
 </div>
 
 

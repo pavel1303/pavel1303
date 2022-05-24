@@ -56,7 +56,7 @@ I liked the curriculum, the big community and the fact that the students help ea
   </div>
   <div id="projects">
     <h2>My projects</h2>
-    <p>Here you can get acquainted with the projects that I carried out during my studies.Also in my repositories you can get acquainted with my solutions to algorithmic tasks, and tasks performed on Node.js</p>
+    <p>Here you can see the projects that I did during my studies. Also in my pinned repositories you can find my solutions to algorithmic tasks.</p>
     <p>P.S. The section is updated periodically.</p>
     
 <table>

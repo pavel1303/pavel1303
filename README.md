@@ -92,8 +92,8 @@ There is also a burger menu implementation, theme change (light / dark), languag
 <tr>
   <td align="center"><a href="https://github.com/pavel1303/rs_private_repository_stage_0/tree/memory-game">Memory Game</a></td>
   <td align="center"><a href="https://pavel1303.github.io/rs_private_repository_stage_0/memory-game/" rel="nofollow">Snoop Dogg Memory Game</a></td>
-  <td>The classic "Memorize the Map" game accompanied by Snoop Dog. Implemented:
-  flipping cards, blocking cards during a try, a timer that starts with a new try, counting the number of attempts, remembering the results of the last 10 games and a surprise for those who reach the end :)
+  <td>The classic "Memorize the Card" game accompanied by Snoop Dog. Implemented:
+random order of cards when starting a new game, flipping cards, blocking cards during a try, a timer that starts from a new try, counting the number of attempts, remembering the results of the last 10 games and a surprise for those who reach the end :)
   </td>
 </tr>
 <tr>

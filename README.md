@@ -128,6 +128,14 @@ Jokes memes are local, probably only RS School students will understand :)</td>
 Each task has a description, and if you wish, you can try to run my code locally on your computer.
 The last task is number 06, the most difficult and interesting, with the help of which you can build your site)</td>
 </tr>
+<tr>
+  <td align="center"><a href="https://github.com/pavel1303/clean-code-s1e1/tree/clean-code-s1e1">Clean Code</a></td>
+   <td align="center"><a href="https://pavel1303.github.io/clean-code-s1e1/">Clean Code</a></td>
+  <td>Training task - "Clean Code".
+The essence of the task was as follows:
+it was necessary to fork the repository, with the finished application, and then refactor the code, in accordance with the rules of clean code.
+    The <a src="https://github.com/pavel1303/clean-code-s1e1/pull/2">pull request</a> contains a detailed description of the work done.</td>
+</tr>
 
 <tr>
 <td align="center">New project</td>
@@ -136,6 +144,17 @@ The last task is number 06, the most difficult and interesting, with the help of
 </tr>
 </tbody>
 </table>
+  </div>
+  <div id='education'>
+    <h2 align='left'>Education</h2>
+    <ul>
+      <li>Rolling Scopes School Stage 0 <a href="https://app.rs.school/certificate/upiv5s7v">Certificate</a></li>
+      <li>Rolling Scopes School Stage 1 (<b>in progress</b>)</li>
+      <li><a href="https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer">MDN Frontend Course</a></li>
+      <li><a href="https://learn.javascript.ru/">Learn JavaScript</a> (<b>in progress</b>)</li>
+      <li>Head First O’Reilly Learning JavaScript Programming</li>
+      <li>Aditya Y. Bhargava Grokking Algorithms (<b>in progress</b>)</li>
+    </ul>
   </div>
   <div id='stats' align='center'>
     <h2 align='left'>And some statistics...</h2>

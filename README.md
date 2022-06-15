@@ -149,7 +149,8 @@ it was necessary to fork the repository, with the finished application, and then
     <h2 align='left'>Education</h2>
     <ul>
       <li>Rolling Scopes School Stage 0 <a href="https://app.rs.school/certificate/upiv5s7v">Certificate</a></li>
-      <li>Rolling Scopes School Stage 1 (<b>in progress</b>)</li>
+      <li>Rolling Scopes School Stage 1</li>
+      <li>Rolling Scopes School Stage 2 (<b>in progress</b>)</li>
       <li><a href="https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer">MDN Frontend Course</a></li>
       <li><a href="https://learn.javascript.ru/">Learn JavaScript</a> (<b>in progress</b>)</li>
       <li>Head First O’Reilly Learning JavaScript Programming</li>

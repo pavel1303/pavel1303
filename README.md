@@ -136,7 +136,13 @@ The essence of the task was as follows:
 it was necessary to fork the repository, with the finished application, and then refactor the code, in accordance with the rules of clean code.
     The <a src="https://github.com/pavel1303/clean-code-s1e1/pull/2">pull request</a> contains a detailed description of the work done.</td>
 </tr>
-
+<tr>
+<td align="center">Self Introduction</td>
+<td align="center"><a href="https://youtu.be/VfTLmphzmCQ">Self Introduction</a></td>
+<td>This project contains no code.
+The purpose of this task was to create a video in which you need to briefly tell about yourself in English.
+I added a little creativity, and you can see the result at the link)</td>
+</tr>
 <tr>
 <td align="center">New project</td>
 <td align="center"></td>

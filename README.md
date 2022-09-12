@@ -158,7 +158,7 @@ I added a little creativity, and you can see the result at the link)</td>
       <li>Rolling Scopes School Stage 1</li>
       <li>Rolling Scopes School Stage 2 (<b>in progress</b>)</li>
       <li><a href="https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer">MDN Frontend Course</a></li>
-      <li><a href="https://learn.javascript.ru/">Learn JavaScript</a> (<b>in progress</b>)</li>
+      <li><a href="https://learn.javascript.ru/">Learn JavaScript</a></li>
       <li>Head First O’Reilly Learning JavaScript Programming</li>
       <li>Aditya Y. Bhargava Grokking Algorithms (<b>in progress</b>)</li>
     </ul>

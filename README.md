@@ -42,7 +42,10 @@ I liked the curriculum, the big community and the fact that the students help ea
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
   <img src="https://ru.bem.info/UkC0yRpjS421DGQJVLY7NzcCQT0.svgd" title="BEM" alt="BEM" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESlint" alt="ESlint" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="60" height="60"/>&nbsp;
@@ -142,6 +145,51 @@ it was necessary to fork the repository, with the finished application, and then
 <td>This project contains no code.
 The purpose of this task was to create a video in which you need to briefly tell about yourself in English.
 I added a little creativity, and you can see the result at the link)</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/pavel1303/projects_stage_2/tree/online-store">Online-store</a></td>
+<td align="center"><a href="https://pavel1303.github.io/projects_stage_2/online-store/">Online-store</a></td>
+<td>
+ The purpose of this task was to create a website for the sale of any product, with the ability to filter products by their characteristics.
+The data is taken from the json file, processed and an HTML page is dynamically generated, with relevant filters. This project is written in Typescript, using Webpack, Babel, Eslint, Prettier, SASS and other technologies.
+I did not have time to implement all the planned functionality, the project needs refactoring.
+</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/vovoka-path/rs-clone/pull/8">RS Clone</a></td>
+<td align="center"><a href="https://github.com/vovoka-path/rs-clone/pull/8">RS Clone / CRM Photo-agancy</a></td>
+<td>
+  This is the latest team project that we are very proud of!
+
+  The purpose of this task was:
+  1. Divide into teams of 3.
+  2. Find an idea to implement.
+  3. Implement the project.
+
+  Three weeks were allocated for the implementation of the project. 
+
+  Our project was a full-service photo agency, with a landing page to attract clients and a CRM-system for internal and external interaction.
+
+  The following technologies were used in the project: 
+  Typescript, Javascript, 
+  Node JS,
+  Express JS, 
+  MongoDB/Mongoose,
+  Webpack, Babel, Eslint.
+
+  I have made personal contributions to: 
+  1. Developed the future architecture and logic of the application together with my colleagues.
+  2. Implemented server operation and interaction with the database (authorization, registration, authentication, sending e-mail notifications, order storage and interaction with them, user storage and interaction with them).
+  3. Created components for easy creation of application elements.
+  4. Using the written components, I implemented the following parts of the application:
+  - Menu section.
+  - Section for creating a new order
+  - The section for viewing, creating, editing and deleting users
+  - The statistics section (the Chart JS library was used)
+  5. Styling the entire application.
+
+Links lead to Pull Request, where you can find a detailed description of the implemented features, as well as the necessary accesses to work with the application.
+</td>
 </tr>
 <tr>
 <td align="center">New project</td>

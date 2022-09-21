@@ -201,9 +201,8 @@ Links lead to Pull Request, where you can find a detailed description of the imp
   <div id='education'>
     <h2 align='left'>Education</h2>
     <ul>
-      <li>Rolling Scopes School Stage 0 <a href="https://app.rs.school/certificate/upiv5s7v">Certificate</a></li>
-      <li>Rolling Scopes School Stage 1</li>
-      <li>Rolling Scopes School Stage 2 (<b>in progress</b>)</li>
+      <li>Rolling Scopes School PRE_SCHOOL <a href="https://app.rs.school/certificate/upiv5s7v">Certificate</a></li>
+      <li>Rolling Scopes School JAVASCRIPT/FRONT-END 2022Q1 <a href="https://app.rs.school/certificate/mql1ipun">Certificate</a></li>
       <li><a href="https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer">MDN Frontend Course</a></li>
       <li><a href="https://learn.javascript.ru/">Learn JavaScript</a></li>
       <li>Head First O’Reilly Learning JavaScript Programming</li>
